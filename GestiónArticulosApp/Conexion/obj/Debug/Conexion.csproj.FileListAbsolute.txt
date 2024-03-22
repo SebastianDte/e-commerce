@@ -1,0 +1,8 @@
+C:\Users\wxyz2\Desktop\App_Gestión\GestiónArticulosApp\Conexion\bin\Debug\Conexion.dll
+C:\Users\wxyz2\Desktop\App_Gestión\GestiónArticulosApp\Conexion\bin\Debug\Conexion.pdb
+C:\Users\wxyz2\Desktop\App_Gestión\GestiónArticulosApp\Conexion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\wxyz2\Desktop\App_Gestión\GestiónArticulosApp\Conexion\obj\Debug\Conexion.csproj.AssemblyReference.cache
+C:\Users\wxyz2\Desktop\App_Gestión\GestiónArticulosApp\Conexion\obj\Debug\Conexion.csproj.CoreCompileInputs.cache
+C:\Users\wxyz2\Desktop\App_Gestión\GestiónArticulosApp\Conexion\obj\Debug\Conexion.csproj.Up2Date
+C:\Users\wxyz2\Desktop\App_Gestión\GestiónArticulosApp\Conexion\obj\Debug\Conexion.dll
+C:\Users\wxyz2\Desktop\App_Gestión\GestiónArticulosApp\Conexion\obj\Debug\Conexion.pdb
