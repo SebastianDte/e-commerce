@@ -3,32 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\sebat\\Documents\\App_Gesti\u00F3n\\e-commerce\\Gesti\u00F3nArticulosApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{36845B61-5182-42D1-99AB-6755572569D4}|Vistas\\Vistas.csproj|C:\\Users\\sebat\\Documents\\App_Gesti\u00F3n\\e-commerce\\Gesti\u00F3nArticulosApp\\vistas\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{36845B61-5182-42D1-99AB-6755572569D4}|Vistas\\Vistas.csproj|solutionrelative:vistas\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E53446B-71CF-4EA8-BF1B-833A8A82A6D0}|Conexion\\Conexion.csproj|c:\\users\\sebat\\documents\\app_gesti\u00F3n\\e-commerce\\gesti\u00F3narticulosapp\\conexion\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{4E53446B-71CF-4EA8-BF1B-833A8A82A6D0}|Conexion\\Conexion.csproj|solutionrelative:conexion\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{36845B61-5182-42D1-99AB-6755572569D4}|Vistas\\Vistas.csproj|C:\\Users\\sebat\\Documents\\App_Gesti\u00F3n\\e-commerce\\Gesti\u00F3nArticulosApp\\vistas\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{36845B61-5182-42D1-99AB-6755572569D4}|Vistas\\Vistas.csproj|solutionrelative:vistas\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{36845B61-5182-42D1-99AB-6755572569D4}|Vistas\\Vistas.csproj|C:\\Users\\sebat\\Documents\\App_Gesti\u00F3n\\e-commerce\\Gesti\u00F3nArticulosApp\\vistas\\administracion crud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{36845B61-5182-42D1-99AB-6755572569D4}|Vistas\\Vistas.csproj|solutionrelative:vistas\\administracion crud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{36845B61-5182-42D1-99AB-6755572569D4}|Vistas\\Vistas.csproj|C:\\Users\\sebat\\Documents\\App_Gesti\u00F3n\\e-commerce\\Gesti\u00F3nArticulosApp\\vistas\\administracion crud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{36845B61-5182-42D1-99AB-6755572569D4}|Vistas\\Vistas.csproj|solutionrelative:vistas\\administracion crud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{36845B61-5182-42D1-99AB-6755572569D4}|Vistas\\Vistas.csproj|C:\\Users\\sebat\\Documents\\App_Gesti\u00F3n\\e-commerce\\Gesti\u00F3nArticulosApp\\vistas\\loguin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{36845B61-5182-42D1-99AB-6755572569D4}|Vistas\\Vistas.csproj|c:\\users\\sebat\\documents\\app_gesti\u00F3n\\e-commerce\\gesti\u00F3narticulosapp\\vistas\\loguin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{36845B61-5182-42D1-99AB-6755572569D4}|Vistas\\Vistas.csproj|solutionrelative:vistas\\loguin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{36845B61-5182-42D1-99AB-6755572569D4}|Vistas\\Vistas.csproj|C:\\Users\\sebat\\Documents\\App_Gesti\u00F3n\\e-commerce\\Gesti\u00F3nArticulosApp\\vistas\\administracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{36845B61-5182-42D1-99AB-6755572569D4}|Vistas\\Vistas.csproj|solutionrelative:vistas\\administracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{36845B61-5182-42D1-99AB-6755572569D4}|Vistas\\Vistas.csproj|C:\\Users\\sebat\\Documents\\App_Gesti\u00F3n\\e-commerce\\Gesti\u00F3nArticulosApp\\vistas\\loguin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36845B61-5182-42D1-99AB-6755572569D4}|Vistas\\Vistas.csproj|solutionrelative:vistas\\loguin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36845B61-5182-42D1-99AB-6755572569D4}|Vistas\\Vistas.csproj|C:\\Users\\sebat\\Documents\\App_Gesti\u00F3n\\e-commerce\\Gesti\u00F3nArticulosApp\\vistas\\loguin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36845B61-5182-42D1-99AB-6755572569D4}|Vistas\\Vistas.csproj|solutionrelative:vistas\\loguin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36845B61-5182-42D1-99AB-6755572569D4}|Vistas\\Vistas.csproj|C:\\Users\\sebat\\Documents\\App_Gesti\u00F3n\\e-commerce\\Gesti\u00F3nArticulosApp\\vistas\\lineacontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36845B61-5182-42D1-99AB-6755572569D4}|Vistas\\Vistas.csproj|solutionrelative:vistas\\lineacontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,89 +26,57 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "packages.config",
-              "DocumentMoniker": "C:\\Users\\sebat\\Documents\\App_Gesti\u00F3n\\e-commerce\\Gesti\u00F3nArticulosApp\\Conexion\\packages.config",
-              "RelativeDocumentMoniker": "Conexion\\packages.config",
-              "ToolTip": "C:\\Users\\sebat\\Documents\\App_Gesti\u00F3n\\e-commerce\\Gesti\u00F3nArticulosApp\\Conexion\\packages.config",
-              "RelativeToolTip": "Conexion\\packages.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-10-15T20:05:43.678Z",
+              "DocumentIndex": 2,
+              "Title": "Loguin.cs",
+              "DocumentMoniker": "C:\\Users\\sebat\\Documents\\App_Gesti\u00F3n\\e-commerce\\Gesti\u00F3nArticulosApp\\Vistas\\Loguin.cs",
+              "RelativeDocumentMoniker": "Vistas\\Loguin.cs",
+              "ToolTip": "C:\\Users\\sebat\\Documents\\App_Gesti\u00F3n\\e-commerce\\Gesti\u00F3nArticulosApp\\Vistas\\Loguin.cs",
+              "RelativeToolTip": "Vistas\\Loguin.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAApwEsAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T23:12:11.734Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
+              "Title": "Loguin.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\sebat\\Documents\\App_Gesti\u00F3n\\e-commerce\\Gesti\u00F3nArticulosApp\\Vistas\\Loguin.Designer.cs",
+              "RelativeDocumentMoniker": "Vistas\\Loguin.Designer.cs",
+              "ToolTip": "C:\\Users\\sebat\\Documents\\App_Gesti\u00F3n\\e-commerce\\Gesti\u00F3nArticulosApp\\Vistas\\Loguin.Designer.cs",
+              "RelativeToolTip": "Vistas\\Loguin.Designer.cs",
+              "ViewState": "AgIAALoAAAAAAAAAAIAwwMUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T23:04:24.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LineaControl.cs",
+              "DocumentMoniker": "C:\\Users\\sebat\\Documents\\App_Gesti\u00F3n\\e-commerce\\Gesti\u00F3nArticulosApp\\Vistas\\LineaControl.cs",
+              "RelativeDocumentMoniker": "Vistas\\LineaControl.cs",
+              "ToolTip": "C:\\Users\\sebat\\Documents\\App_Gesti\u00F3n\\e-commerce\\Gesti\u00F3nArticulosApp\\Vistas\\LineaControl.cs",
+              "RelativeToolTip": "Vistas\\LineaControl.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAgwA0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T22:48:58.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Loguin.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\sebat\\Documents\\App_Gesti\u00F3n\\e-commerce\\Gesti\u00F3nArticulosApp\\Vistas\\Loguin.cs",
               "RelativeDocumentMoniker": "Vistas\\Loguin.cs",
               "ToolTip": "C:\\Users\\sebat\\Documents\\App_Gesti\u00F3n\\e-commerce\\Gesti\u00F3nArticulosApp\\Vistas\\Loguin.cs [Dise\u00F1o]",
               "RelativeToolTip": "Vistas\\Loguin.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T00:40:49.962Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Administracion.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\sebat\\Documents\\App_Gesti\u00F3n\\e-commerce\\Gesti\u00F3nArticulosApp\\Vistas\\Administracion.cs",
-              "RelativeDocumentMoniker": "Vistas\\Administracion.cs",
-              "ToolTip": "D:\\App_Gesti\u00F3n\\e-commerce\\Gesti\u00F3nArticulosApp\\Vistas\\Administracion.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-28T23:43:04.684Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Administracion CRUD.cs",
-              "DocumentMoniker": "C:\\Users\\sebat\\Documents\\App_Gesti\u00F3n\\e-commerce\\Gesti\u00F3nArticulosApp\\Vistas\\Administracion CRUD.cs",
-              "RelativeDocumentMoniker": "Vistas\\Administracion CRUD.cs",
-              "ToolTip": "C:\\Users\\sebat\\Documents\\App_Gesti\u00F3n\\e-commerce\\Gesti\u00F3nArticulosApp\\Vistas\\Administracion CRUD.cs*",
-              "RelativeToolTip": "Vistas\\Administracion CRUD.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T18:01:09.44Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Home.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\sebat\\Documents\\App_Gesti\u00F3n\\e-commerce\\Gesti\u00F3nArticulosApp\\Vistas\\Home.cs",
-              "RelativeDocumentMoniker": "Vistas\\Home.cs",
-              "ToolTip": "C:\\Users\\sebat\\Documents\\App_Gesti\u00F3n\\e-commerce\\Gesti\u00F3nArticulosApp\\Vistas\\Home.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Vistas\\Home.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-19T02:52:25.503Z",
+              "WhenOpened": "2024-11-24T21:13:01.219Z",
               "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Administracion CRUD.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\sebat\\Documents\\App_Gesti\u00F3n\\e-commerce\\Gesti\u00F3nArticulosApp\\Vistas\\Administracion CRUD.cs",
-              "RelativeDocumentMoniker": "Vistas\\Administracion CRUD.cs",
-              "ToolTip": "C:\\Users\\sebat\\Documents\\App_Gesti\u00F3n\\e-commerce\\Gesti\u00F3nArticulosApp\\Vistas\\Administracion CRUD.cs [Dise\u00F1o]*",
-              "RelativeToolTip": "Vistas\\Administracion CRUD.cs [Dise\u00F1o]*",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-21T20:34:09.697Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Home.cs",
-              "DocumentMoniker": "C:\\Users\\sebat\\Documents\\App_Gesti\u00F3n\\e-commerce\\Gesti\u00F3nArticulosApp\\Vistas\\Home.cs",
-              "RelativeDocumentMoniker": "Vistas\\Home.cs",
-              "ToolTip": "C:\\Users\\sebat\\Documents\\App_Gesti\u00F3n\\e-commerce\\Gesti\u00F3nArticulosApp\\Vistas\\Home.cs",
-              "RelativeToolTip": "Vistas\\Home.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-21T16:56:51.34Z",
-              "EditorCaption": ""
             }
           ]
         }
